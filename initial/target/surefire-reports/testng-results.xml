@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mx.com.agmc.poc.selenium.initial.TestCaseUno" duration-ms="15960" started-at="2017-08-18T19:17:56Z" finished-at="2017-08-18T19:18:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="15960" started-at="2017-08-18T19:17:56Z" finished-at="2017-08-18T19:18:12Z">
+      <class name="mx.com.agmc.poc.selenium.initial.TestCaseUno">
+        <test-method status="PASS" signature="verifyGoogleSearch()[pri:0, instance:mx.com.agmc.poc.selenium.initial.TestCaseUno@64616ca2]" name="verifyGoogleSearch" duration-ms="15924" started-at="2017-08-18T14:17:56Z" finished-at="2017-08-18T14:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleSearch -->
+      </class> <!-- mx.com.agmc.poc.selenium.initial.TestCaseUno -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mx.com.agmc.poc.selenium.initial.TestCaseUno -->
+</testng-results>

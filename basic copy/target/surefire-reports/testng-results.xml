@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="19361" started-at="2017-08-19T00:56:42Z" finished-at="2017-08-19T00:57:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19361" started-at="2017-08-19T00:56:42Z" finished-at="2017-08-19T00:57:02Z">
+      <class name="mx.com.acg.poc.selenium.basic.test.complex.common.GenericTest">
+        <test-method status="PASS" signature="afterSuit()[pri:0, instance:mx.com.acg.poc.selenium.basic.test.complex.common.GenericTest@33990a0c]" name="afterSuit" is-config="true" duration-ms="614" started-at="2017-08-18T19:57:02Z" finished-at="2017-08-18T19:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- mx.com.acg.poc.selenium.basic.test.complex.common.GenericTest -->
+      <class name="mx.com.acg.poc.selenium.basic.test.simple.TestBasicPhantomJS">
+        <test-method status="PASS" signature="verifyGoogleSearch()[pri:0, instance:mx.com.acg.poc.selenium.basic.test.simple.TestBasicPhantomJS@69997e9d]" name="verifyGoogleSearch" duration-ms="19323" started-at="2017-08-18T19:56:43Z" finished-at="2017-08-18T19:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleSearch -->
+      </class> <!-- mx.com.acg.poc.selenium.basic.test.simple.TestBasicPhantomJS -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
